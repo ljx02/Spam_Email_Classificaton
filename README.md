@@ -1,6 +1,6 @@
 # Spam_Email_Classificaton
 使用朴素贝叶斯、SVM、逻辑回归、RF、XGBoost、LightGBM的方法实现垃圾邮件分类任务
-博客参考链接：
+博客参考链接：https://blog.csdn.net/ljx0951/article/details/106116944
 
 ## 垃圾邮件分类的各种尝试(机器学习篇)
 
@@ -9,10 +9,6 @@
 机器学习方法：朴素贝叶斯、SVM、逻辑回归、RF、XGBoost、LightGBM
 
 深度学习方法：
-
-> 开源代码地址（欢迎star~）：https://github.com/ljx02/Spam_Email_Classificaton
->
-> 数据集下载链接：由于数据较小，暂时也放到了Git项目中
 
 解决这个问题通用的思路是：
 
