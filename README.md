@@ -1,6 +1,13 @@
 # Spam_Email_Classificaton
 使用朴素贝叶斯、SVM、逻辑回归、RF、XGBoost、LightGBM的方法实现垃圾邮件分类任务
-博客参考链接：https://blog.csdn.net/ljx0951/article/details/106116944
+博客参考链接： 
+[垃圾邮件分类的各种尝试(机器学习篇)](https://blog.csdn.net/ljx0951/article/details/106116944) 
+
+[垃圾邮件分类的各种尝试(深度学习篇)](https://blog.csdn.net/ljx0951/article/details/106500411) 
+## 如何执行程序
+- 下载GloVe词向量文件：<http://nlp.stanford.edu/data/glove.6B.zip> 到GloVe目录，
+- 直接执行`DL/Spam_classification_GloVe.py`文件，利用深度学习的方法完成垃圾邮件的分类
+- 直接执行`Spam_classification_ML.py`文件，利用机器学习的方法完成垃圾邮件的分类任务 
 
 ## 垃圾邮件分类的各种尝试(机器学习篇)
 
