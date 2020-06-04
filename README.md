@@ -16,7 +16,7 @@
 
 机器学习方法：朴素贝叶斯、SVM、逻辑回归、RF、XGBoost、LightGBM
 
-深度学习方法：
+深度学习方法：GloVe + LSTM
 
 解决这个问题通用的思路是：
 
